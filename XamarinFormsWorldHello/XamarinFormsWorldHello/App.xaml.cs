@@ -13,7 +13,7 @@ namespace XamarinFormsWorldHello
 		{
 			InitializeComponent();
 
-			MainPage = new XamarinFormsWorldHello.MainPage();
+			MainPage = new XamarinFormsWorldHello.QuotePage();
 		}
 
 		protected override void OnStart ()
